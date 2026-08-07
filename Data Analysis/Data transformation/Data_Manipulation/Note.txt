@@ -1,0 +1,7 @@
+Remarque : 
+           - Quelque erreur sont présent dans la data d'origine, plutôt on parle pas d'erreur ici
+             disons erreur de format comme la cellule Revenue est en format texte donc si vous essayer
+             certains mise en forme qui fonctionne pas, par exemple avec des nombre verifier la colonne
+             avec la formule ESTNUM si c'est FAUX alors c'est une autre format qu'un nombre en inverse si c'est
+             VRAI c'est un nombre.
+ 

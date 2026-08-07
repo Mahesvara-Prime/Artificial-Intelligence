@@ -1,0 +1,8 @@
+Remarque : 
+          - Lorsque vous utiliser les formules, faut tenir compte de quel langue ce trouve votre Excel 
+          - Le lab prend en compte la cellule U mais la cellule vide avant U est T donc libre d'utiliser la cellule
+            qui vous convienne.
+          - Dans l'étape 3 faut prendre compte du faite des changement avec les formule gauche, droite et autre
+            ne pas prendre le lab trop à la lettre surtout la partie g. utiliser la miser en forme conditionnelle 
+            ou le filtre explique en après dans le lab pour chercher et mettre en surbrillance avant de copier la 
+            formule. 
